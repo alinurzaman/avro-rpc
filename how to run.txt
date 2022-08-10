@@ -1,0 +1,5 @@
+cd \avro-rpc\ruby
+
+sample_ipc_server.rb
+
+sample_ipc_client.rb avro_server avro_client hello
